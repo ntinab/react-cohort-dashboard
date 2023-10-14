@@ -1,7 +1,7 @@
-                                                                                                                       React Cohort Dashboard Challenge
+## React Cohort Dashboard Challenge
 
 
-Learning Objectives
+### Learning Objectives
 
 - Use ReactJS to build an implementation of a provided application design
 - Use HTTP requests to interact with a RESTful API
@@ -10,7 +10,7 @@ Learning Objectives
 In this challenge, you'll create a social media style post feed. There is no boilerplate code provided - you'll be building this from scratch using the designs and specifications provided.
 
 
-Instructions
+### Instructions
 
 Fork and clone this repository to your machine.
 
@@ -25,7 +25,7 @@ Use this REST API as your data source. In particular, you'll need the /posts, /c
 You can use the command npx create-react-app . to create a new React application in the root directory of this project.
 
 
-Core Requirements
+### Core Requirements
 
 - Everything that can be its own component, should be its own component. You must provide evidence of planning what components you are going to create - this could be a component tree diagram, a bullet point list, a wireframe, whatever you like. Include your plan as a file in this repository.
 - Users should be able to create a new post. The new post should be displayed at the top of the post feed.
@@ -36,7 +36,7 @@ Core Requirements
 - The layout does not need to be mobile responsive, nor does it need to be pixel perfect. Get as close as you can, but your main focus should be on React - not CSS.
 
 
-Extension Requirements
+### Extension Requirements
 
 - Only 3 comments should be visible on a post; if a post has more than 3 comments, the See previous comments link should expand the list of comments to display all of them.
 - Clicking on a post / comment authors name or initials, the user initials in the top right of the app, or the Profile link in the left navigation menu should take the user to this Profile screen.
@@ -46,6 +46,6 @@ Extension Requirements
 - Posts and comments should be able to be updated and deleted.
 
 
-Advice
+### Advice
 
 Break this project down into smaller, individual tasks. You could use a simple todo list, a project management board like Trello, anything you like. Not only will this reduce overwhelm and provide you with a clear path forward, it'll also ensure you have understood and accounted for every requirement.
